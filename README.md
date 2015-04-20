@@ -1,1 +1,1 @@
-# uidevelopment with angular
+# uidevelopment with angular and karma for unit testing
